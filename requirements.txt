@@ -1,6 +1,29 @@
-streamlit>=1.39.0
-pandas>=2.2.0
-numpy>=1.26.0
-plotly>=5.22.0
-requests>=2.32.0
-python-dotenv>=1.0.0
+streamlit==1.55.0
+pandas==2.2.3
+numpy==2.2.4
+plotly==6.6.0
+requests==2.33.0
+python-dotenv==1.2.2
+
+# AI相关
+openai==2.30.0
+
+# PDF处理
+pdfplumber==0.11.9
+PyPDF2==3.0.1
+
+# OCR识别
+easyocr==1.7.2
+opencv-python-headless==4.13.0.92
+
+# 文档解析
+python-docx==1.2.0
+
+# 可视化
+altair==6.0.0
+pydeck==0.9.1
+
+# 其他工具
+beautifulsoup4==4.14.3
+jieba==0.42.1
+pyvis==0.3.2
